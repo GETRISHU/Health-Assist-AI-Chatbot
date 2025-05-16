@@ -31,7 +31,7 @@ A smart AI-powered chatbot built using Angular and Gemini AI REST API to provide
 ### 1. Clone the Repository
 
 
-**git clone https://github.com/yourusername/health-assistant-chatbot.git
+**[git clone https://github.com/yourusername/health-assistant-chatbot.git](https://github.com/GETRISHU/Health-Assist-AI-Chatbot.git)
 cd health-assistant-chatbot
 2. Install Dependencies
 
