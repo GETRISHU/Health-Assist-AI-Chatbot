@@ -1,4 +1,4 @@
-# HealthAssist-AI-bot
+# Health Assistant AI Chatbot
 # 🤖 Health Assistant AI Chatbot (Angular)
 
 A smart AI-powered chatbot built using Angular and Gemini AI REST API to provide users with health-related information, suggestions, and general medical guidance in real-time.
@@ -64,7 +64,8 @@ this.http.post(
 
 
 #📸 Screenshots
-![Screenshot 2025-05-09 113837](https://github.com/user-attachments/assets/350978b3-ef54-44e4-bb21-4726f480e49a)
+![Screenshot 2025-05-09 113837](https://github.com/user-attachments/assets/a1ccef69-561a-45ab-85b6-5fd3735cb0c1)
+
 
 
 
@@ -77,8 +78,8 @@ Multi-language support 🌍
 
 More advanced symptom checker 🩺
 
-#📜 License
-MIT License © Rishi Ranjan Kumar
+📜 License
+**MIT License © Rishi Ranjan Kumar**
 **
 
 
