@@ -29,14 +29,15 @@ A smart AI-powered chatbot built using Angular and Gemini AI REST API to provide
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
+<br/>
 
 
 **[git clone https://github.com/yourusername/health-assistant-chatbot.git](https://github.com/GETRISHU/Health-Assist-AI-Chatbot.git)
 cd health-assistant-chatbot
+<br/>
 2. Install Dependencies
-
-
 npm install
+<br/>
 3. Add Your Gemini API Key
 Create or update the environment.ts file in src/environments/:
 
@@ -47,11 +48,14 @@ export const environment = {
 };
 ⚠️ Note: Never push your API key to GitHub. Make sure it's listed in .gitignore.
 
+<br/>
+
 4. Run the Angular Development Server
 
 ng serve
 Visit: http://localhost:4200
 
+<br/>
 📡 API Integration (Gemini AI)
 Using HttpClient to make POST requests to Gemini REST API:
 
@@ -61,13 +65,13 @@ this.http.post(
   { headers }
 )
 
-
+<br/>
 
 #📸 Screenshots
 ![Screenshot 2025-05-09 113837](https://github.com/user-attachments/assets/a1ccef69-561a-45ab-85b6-5fd3735cb0c1)
 
 
-
+<br/>
 
 🧠 Future Enhancements
 Add voice support 🎙️
@@ -77,8 +81,10 @@ Save chat history 📚
 Multi-language support 🌍
 
 More advanced symptom checker 🩺
+<br/>
 
 📜 License
+<br/>
 **MIT License © Rishi Ranjan Kumar**
 **
 
